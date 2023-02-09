@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "23474437",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "f31f35ad9ef183e45184398fa1c120c7",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5982534599:AAHDIOs3hoHW7BN9EEzJF3MkXpbcLlSXd-M",
         "required": true
       },
       "DURATION_LIMIT_MIN": {
@@ -40,7 +40,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Bhojpuriya:bhojpuriya@cluster0.osrvhzy.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "AUTO_DOWNLOADS_CLEAR": {
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "внσʝρυʀιуα мυѕι¢",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -65,7 +65,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1356469075",
+        "value": "5905205047",
         "required": true
       },
       "STRING_SESSION": {
@@ -75,12 +75,12 @@
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://te.legra.ph/file/6dd5572ac2fc570e3dd59.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://te.legra.ph/file/6dd5572ac2fc570e3dd59.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -95,17 +95,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001836364647",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/BestFriendChattingGroup",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/Akhand_Words",
+        "value": "https://t.me/Botsxupdate",
         "required": false
       }
     },
